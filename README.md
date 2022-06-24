@@ -1,2 +1,3 @@
 # Get country and carrier name from phone number using python
-Clone code and using 
+Using 2 library from python(phonenumbers, pycountry)
+Clone code and using
